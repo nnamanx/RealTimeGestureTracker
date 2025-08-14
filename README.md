@@ -32,9 +32,10 @@
 
 ## Overview
 <p> Real-time hand gesture recognition project using Python, OpenCV, and MediaPipe. Currently in early development — features will be improved and more gestures will be added. </p>
+
 ---
 
-### Notes
+## Notes
 <p>min_detection_confidence = 0.7</p>
 <ul>
   <li>If confidence drops below <strong>0.5</strong>, MediaPipe will stop tracking that hand until it’s detected again.</li>
