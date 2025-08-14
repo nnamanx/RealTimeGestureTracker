@@ -2,10 +2,10 @@
 
 *Transforming Gestures into Instant Interactive Power*
 
-![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY?color=grey&label=last%20commit)
-![Activity](https://img.shields.io/badge/yesterday-blue)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-100%25-blue)
-![Languages](https://img.shields.io/badge/languages-1-grey)
+![Last Commit](https://img.shields.io/github/last-commit/nnamanx/RealTimeGestureTracker?color=grey&label=last%20commit)
+![GitHub Activity](https://img.shields.io/github/commit-activity/w/nnamanx/RealTimeGestureTracker)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Languages](https://img.shields.io/github/languages/count/nnamanx/RealTimeGestureTracker)
 
 ---
 
