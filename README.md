@@ -31,7 +31,7 @@
 ---
 
 ## Overview
-Real-time hand gesture recognition project using Python, OpenCV, and MediaPipe. Currently in early development — features will be improved and more gestures will be added.
+<p> Real-time hand gesture recognition project using Python, OpenCV, and MediaPipe. Currently in early development — features will be improved and more gestures will be added. </p>
 ---
 
 ### Notes
