@@ -1,25 +1,35 @@
-<!--- # ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG) --->
+# REALTIMEGESTURETRACKER
 
-# RealTimeGestureTracker
-<table>
-<tr>
-<td>
-  Real-time hand gesture recognition project using Python, OpenCV, and MediaPipe. Currently in early development — features will be improved and more gestures will be added.
-</td>
-</tr>
-</table>
+*Transforming Gestures into Instant Interactive Power*
 
+![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY?color=grey&label=last%20commit)
+![Activity](https://img.shields.io/badge/yesterday-blue)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-100%25-blue)
+![Languages](https://img.shields.io/badge/languages-1-grey)
 
-<!--- ## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/ --->
+---
 
-### Bug / Feature Request
+*Built with the tools and technologies:*
 
-If you find a bug, kindly open an issue
-
-
-## To-do
-- Improve gesture recognition accuracy for multiple hand poses
-- Add support for additional gestures
+<!-- Tech Stack -->
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blueviolet)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10-orange)
 
 
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
+
+---
+
+## Overview
+Real-time hand gesture recognition project using Python, OpenCV, and MediaPipe. Currently in early development — features will be improved and more gestures will be added.
+---
