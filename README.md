@@ -1,4 +1,4 @@
-# REALTIMEGESTURETRACKER
+# REAL TIME GESTURE TRACKER
 
 *Transforming Gestures into Instant Interactive Power*
 
